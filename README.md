@@ -1,5 +1,4 @@
-# tddbe
-Notes from "Test Driven Development by Example" by Kent Beck
+# Notes on  "Test Driven Development by Example" by Kent Beck
 
 [Another link][1]
 
