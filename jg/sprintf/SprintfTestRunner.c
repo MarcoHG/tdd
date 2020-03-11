@@ -1,4 +1,5 @@
-#include "unity/src/unity.h"
+//#include "unity/src/unity.h"
+#include "unity.h"
 #include "SprintfTest.h"
 
 void setUp() {}
